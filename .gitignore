@@ -1,3 +1,5 @@
 *.BAK
 *.FXP
 *.ERR
+
+_*.txt
